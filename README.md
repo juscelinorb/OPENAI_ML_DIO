@@ -34,7 +34,7 @@
 
 ---
 
-## Ferramentas de OCR 
+## Ferramentas de OCR ja no portal.vision.cognitive.azure.com
 
 ### Uso da ferramenta Extract text from images, Detecta com o uso da Read API os caracteres com suporte a varos idiomas (OCR)
 ### Aqui fiz utilização de um cupom fiscal
