@@ -24,7 +24,6 @@
 ![OpenAI microsoft](https://github.com/juscelinorb/OPENAI_ML_DIO/blob/main/imagens/criando_recurso.jpg)
 
 ### Usei a ferramenta de criação de imagem dall-e-3
-
 ### Pedi para criar uma imagem de um foguete com a bandeira do Brasil
 
 ![dall-e-3](https://github.com/juscelinorb/OPENAI_ML_DIO/blob/main/outputs/texto_em_imagem1.jpg)
@@ -32,4 +31,21 @@
 ### Agora pedi para criar uma imagem de uma mulher comendo maça
 
 ![dall-e-3](https://github.com/juscelinorb/OPENAI_ML_DIO/blob/main/outputs/texto_em_imagem2.jpg)
+
+---
+
+## Ferramentas de OCR 
+
+### Uso da ferramenta Extract text from images, Detecta com o uso da Read API os caracteres com suporte a varos idiomas (OCR)
+### Aqui fiz utilização de um cupom fiscal
+
+![OCR](https://github.com/juscelinorb/OPENAI_ML_DIO/blob/main/inputs/imagerm_texto_imput.jpg)
+
+### E o resultado foi muito bom
+ 
+ ![OCR](https://github.com/juscelinorb/OPENAI_ML_DIO/blob/main/outputs/imagem_texto.jpg)
+ 
+ ---
+ 
+ 
 
